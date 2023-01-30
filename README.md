@@ -20,5 +20,5 @@ Olá, eu sou o Marcello Nascimento
 
 ## Meus Contatos
 
-- Instagram @Marcasnas
+- Linkedin https://www.linkedin.com/in/marcelloa-nascimento
 - Email Marcelloa.nascimento@gmail.com
