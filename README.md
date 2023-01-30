@@ -1,16 +1,24 @@
-### Hi there 👋
+# Bem Vindo(a) ao meu perfil!
 
-<!--
-**MarcelloNascimento/MarcelloNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou o Marcello Nascimento
 
-Here are some ideas to get you started:
+## Meus Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Jogar VideoGame
+- Cozinhar
+- Assistir Animes e Series
+- Viajar
+
+## Atualmente Estudando
+
+- React
+- Javascript e TypeScript
+- MySQL
+- HTML
+- CSS
+- Java
+
+## Meus Contatos
+
+- Instagram @Marcasnas
+- Email Marcelloa.nascimento@gmail.com
