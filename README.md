@@ -18,7 +18,6 @@ Olá, eu sou o Marcello Nascimento
 - CSS
 - Java
 
-## Meus Contatos
+## Contato
 
-- Instagram @Marcasnas
 - Email Marcelloa.nascimento@gmail.com
