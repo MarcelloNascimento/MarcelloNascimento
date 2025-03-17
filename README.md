@@ -11,12 +11,10 @@ Olá, eu sou o Marcello Nascimento
 
 ## Atualmente Estudando
 
-- React
-- Javascript e TypeScript
+- MongoDB
+- Javascript
 - MySQL
-- HTML
-- CSS
-- Java
+- Node.JS
 
 ## Meus Contatos
 
